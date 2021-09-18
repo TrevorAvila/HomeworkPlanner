@@ -14,7 +14,8 @@ The homework planner will be a web style application.
 With plans in the future to be an moblie application.
 
 #Usage\
-Once installed The user will be able to insert classes with the option to color code them.
+Once installed The user will be able to insert classes with the option to color code them. 
+After they will be able to input the assignments as well as set completion and reminder indicators. 
 
 
 #Contributing\
@@ -22,5 +23,15 @@ Once installed The user will be able to insert classes with the option to color 
 
 #Credits\
 
+Contributors:
+
+
+https://github.com/TrevorAvila
+
+
+https://github.com/Frawatson
+
 
 #License\
+
+
